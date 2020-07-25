@@ -30,3 +30,4 @@
 7. [A+B -7](https://github.com/uuuugi/beakjoon/blob/master/src/11021.c)
 8. [A+B -8](https://github.com/uuuugi/beakjoon/blob/master/src/11022.c)
 9. [별찍기 -1](https://github.com/uuuugi/beakjoon/blob/master/src/2438.c)
+10. [별찍기 -2](https://github.com/uuuugi/beakjoon/blob/master/src/2439.c)
