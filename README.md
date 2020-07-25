@@ -15,3 +15,7 @@
 
 ###### if문
 1. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/1330.c)
+2. [시험성적](https://github.com/uuuugi/beakjoon/blob/master/src/9498.c)
+3. [윤년](https://github.com/uuuugi/beakjoon/blob/master/src/2753.c)
+4. [사분면 고르기](https://github.com/uuuugi/beakjoon/blob/master/src/14681.c)
+5. [알람 시계](https://github.com/uuuugi/beakjoon/blob/master/src/2884.c)
