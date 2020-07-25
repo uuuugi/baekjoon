@@ -15,7 +15,7 @@
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
-|제목|
+||
 |--|
 |1|
 |2|
