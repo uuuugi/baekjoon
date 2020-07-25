@@ -31,3 +31,4 @@
 8. [A+B -8](https://github.com/uuuugi/beakjoon/blob/master/src/11022.c)
 9. [별찍기 -1](https://github.com/uuuugi/beakjoon/blob/master/src/2438.c)
 10. [별찍기 -2](https://github.com/uuuugi/beakjoon/blob/master/src/2439.c)
+11. [X보다 작은 수](https://github.com/uuuugi/beakjoon/blob/master/src/10871.c)
