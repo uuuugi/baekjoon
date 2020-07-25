@@ -21,9 +21,10 @@
 5. [알람 시계](https://github.com/uuuugi/beakjoon/blob/master/src/2884.c)
 
 ###### for문
-1. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/2739.c)
-2. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/10950.c)
-3. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/8393.c)
-4. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/15552.c)
-5. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/2741.c)
-6. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/2742.c)
+1. [구구단](https://github.com/uuuugi/beakjoon/blob/master/src/2739.c)
+2. [A+B -3](https://github.com/uuuugi/beakjoon/blob/master/src/10950.c)
+3. [합](https://github.com/uuuugi/beakjoon/blob/master/src/8393.c)
+4. [빠른 A+B](https://github.com/uuuugi/beakjoon/blob/master/src/15552.c)
+5. [N 찍기](https://github.com/uuuugi/beakjoon/blob/master/src/2741.c)
+6. [기찍 N](https://github.com/uuuugi/beakjoon/blob/master/src/2742.c)
+7. [A+B -7](https://github.com/uuuugi/beakjoon/blob/master/src/11021.c)
