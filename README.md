@@ -44,3 +44,4 @@
 3. [세 수](https://github.com/uuuugi/beakjoon/blob/master/src/10817.c)
 4. [별찍기 -13](https://github.com/uuuugi/beakjoon/blob/master/src/2523.c)
 5. [별찍기 -9](https://github.com/uuuugi/beakjoon/blob/master/src/2446.c)
+6. [별찍기 -21](https://github.com/uuuugi/beakjoon/blob/master/src/10996.c)
