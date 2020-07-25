@@ -43,3 +43,4 @@
 2. [상근날드](https://github.com/uuuugi/beakjoon/blob/master/src/5543.c)
 3. [세 수](https://github.com/uuuugi/beakjoon/blob/master/src/10817.c)
 4. [별찍기 -13](https://github.com/uuuugi/beakjoon/blob/master/src/2523.c)
+5. [별찍기 -9](https://github.com/uuuugi/beakjoon/blob/master/src/2446.c)
