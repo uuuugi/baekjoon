@@ -37,3 +37,6 @@
 1. [A+B -5](https://github.com/uuuugi/beakjoon/blob/master/src/10952.c)
 2. [A+B -4](https://github.com/uuuugi/beakjoon/blob/master/src/10951.c)
 3. [더하기 사이클](https://github.com/uuuugi/beakjoon/blob/master/src/1110.c)
+
+###### 실습1
+1. [평균점수](https://github.com/uuuugi/beakjoon/blob/master/src/10039.c)
