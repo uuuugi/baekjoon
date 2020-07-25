@@ -12,3 +12,6 @@
 9. [사칙연산](https://github.com/uuuugi/beakjoon/blob/master/src/10869.c)
 10. [나머지](https://github.com/uuuugi/beakjoon/blob/master/src/10430.c)
 11. [곱셈](https://github.com/uuuugi/beakjoon/blob/master/src/2588.c)
+
+###### if문
+1. [두 수 비교하기](https://github.com/uuuugi/beakjoon/blob/master/src/1330.c)
