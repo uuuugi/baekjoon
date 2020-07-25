@@ -71,5 +71,6 @@
 
 1. [최소,최대](https://github.com/uuuugi/beakjoon/blob/master/src/10818.c)
 2. [최댓값](https://github.com/uuuugi/beakjoon/blob/master/src/2562.c)
+3. [숫자의 개수](https://github.com/uuuugi/beakjoon/blob/master/src/2577.c)
 
 </details>
