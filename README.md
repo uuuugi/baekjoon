@@ -7,3 +7,4 @@
 4. [개](https://github.com/uuuugi/beakjoon/blob/master/src/%EA%B0%9C.c)
 5. [A+B](https://github.com/uuuugi/beakjoon/blob/master/src/A%2BB.c)
 5. [A-B](https://github.com/uuuugi/beakjoon/blob/master/src/A-B.c)
+6. [AxB](https://github.com/uuuugi/beakjoon/blob/master/src/AxB)
