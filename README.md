@@ -8,4 +8,5 @@
 5. [A+B](https://github.com/uuuugi/beakjoon/blob/master/src/A%2BB.c)
 6. [A-B](https://github.com/uuuugi/beakjoon/blob/master/src/A-B.c)
 7. [AxB](https://github.com/uuuugi/beakjoon/blob/master/src/AxB)
-8. [A/B](https://github.com/uuuugi/beakjoon/blob/master/src/A%20%E2%A7%B8%20B)
+8. [A/B](https://github.com/uuuugi/beakjoon/blob/master/src/A%20%E2%A7%B8%20B.c)
+9. [사칙연산](https://github.com/uuuugi/beakjoon/blob/master/src/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.c)
