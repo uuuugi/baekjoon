@@ -70,6 +70,6 @@
 <summary>1차원 배열</summary>
 
 1. [최소,최대](https://github.com/uuuugi/beakjoon/blob/master/src/10818.c)
-
+2. [최댓값](https://github.com/uuuugi/beakjoon/blob/master/src/2562.c)
 
 </details>
