@@ -41,3 +41,4 @@
 ###### 실습1
 1. [평균점수](https://github.com/uuuugi/beakjoon/blob/master/src/10039.c)
 2. [상근날드](https://github.com/uuuugi/beakjoon/blob/master/src/5543.c)
+3. [세 ](https://github.com/uuuugi/beakjoon/blob/master/src/10817.c)
