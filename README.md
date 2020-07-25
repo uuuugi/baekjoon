@@ -35,3 +35,4 @@
 
 ###### while문
 1. [A+B -5](https://github.com/uuuugi/beakjoon/blob/master/src/10952.c)
+2. [A+B -4](https://github.com/uuuugi/beakjoon/blob/master/src/10951.c)
