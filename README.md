@@ -32,3 +32,6 @@
 9. [별찍기 -1](https://github.com/uuuugi/beakjoon/blob/master/src/2438.c)
 10. [별찍기 -2](https://github.com/uuuugi/beakjoon/blob/master/src/2439.c)
 11. [X보다 작은 수](https://github.com/uuuugi/beakjoon/blob/master/src/10871.c)
+
+###### while문
+1. [A+B -5](https://github.com/uuuugi/beakjoon/blob/master/src/10952.c)
