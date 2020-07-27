@@ -75,4 +75,6 @@
 4. [나머지](https://github.com/uuuugi/beakjoon/blob/master/src/3052.c)
 5. [평균](https://github.com/uuuugi/beakjoon/blob/master/src/1546.c)
 6. [OX퀴즈](https://github.com/uuuugi/beakjoon/blob/master/src/8958.c)
+7. [평균은 넘겠지](https://github.com/uuuugi/beakjoon/blob/master/src/4344.c)
+
 </details>
