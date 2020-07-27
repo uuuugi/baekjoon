@@ -78,3 +78,11 @@
 7. [평균은 넘겠지](https://github.com/uuuugi/beakjoon/blob/master/src/4344.c)
 
 </details>
+
+<details markdown="1">
+<summary>함수</summary>
+
+1. [정수 N개의 합](https://github.com/uuuugi/beakjoon/blob/master/src/15596.c)
+
+
+</details>
