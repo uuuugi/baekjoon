@@ -83,6 +83,6 @@
 <summary>함수</summary>
 
 1. [정수 N개의 합](https://github.com/uuuugi/beakjoon/blob/master/src/15596.c)
-
+2. [셀프넘버](https://github.com/uuuugi/beakjoon/blob/master/src/4673.c)
 
 </details>
