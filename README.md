@@ -92,4 +92,5 @@
 <summary>함수</summary>
 
 1. [아스키 코드](https://github.com/uuuugi/beakjoon/blob/master/src/11654.c)
+2. [숫자의 합](https://github.com/uuuugi/beakjoon/blob/master/src/11720.c)
 </details>
