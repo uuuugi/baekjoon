@@ -87,3 +87,9 @@
 3. [한수](https://github.com/uuuugi/beakjoon/blob/master/src/1065.c)
 
 </details>
+
+<details markdown="1">
+<summary>함수</summary>
+
+1. [아스키 코드](https://github.com/uuuugi/beakjoon/blob/master/src/11654.c)
+</details>
