@@ -94,4 +94,5 @@
 1. [아스키 코드](https://github.com/uuuugi/beakjoon/blob/master/src/11654.c)
 2. [숫자의 합](https://github.com/uuuugi/beakjoon/blob/master/src/11720.c)
 3. [알파벳 찾기](https://github.com/uuuugi/beakjoon/blob/master/src/10809.c)
+4. [문자열 반복](https://github.com/uuuugi/beakjoon/blob/master/src/2675.c)
 </details>
