@@ -98,4 +98,5 @@
 5. [단어 공부](https://github.com/uuuugi/beakjoon/blob/master/src/1157.c)
 6. [단어의 개수](https://github.com/uuuugi/beakjoon/blob/master/src/1152.c)
 7. [상수](https://github.com/uuuugi/beakjoon/blob/master/src/2908.c)
+8. [다이얼](https://github.com/uuuugi/beakjoon/blob/master/src/5622.c)
 </details>
