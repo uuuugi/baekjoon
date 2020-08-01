@@ -102,3 +102,9 @@
 9. [크로아티아 알파벳](https://github.com/uuuugi/beakjoon/blob/master/src/2941.c)
 10. [그룹 단어 체커](https://github.com/uuuugi/beakjoon/blob/master/src/1316.c)
 </details>
+
+<details markdown="1">
+<summary>문자열</summary>
+
+1. [손익분기점](https://github.com/uuuugi/beakjoon/blob/master/src/1712.c)
+</details>
