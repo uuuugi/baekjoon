@@ -104,7 +104,7 @@
 </details>
 
 <details markdown="1">
-<summary>문자열</summary>
+<summary>수학 1</summary>
 
 1. [손익분기점](https://github.com/uuuugi/beakjoon/blob/master/src/1712.c)
 </details>
