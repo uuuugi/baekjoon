@@ -100,4 +100,5 @@
 7. [상수](https://github.com/uuuugi/beakjoon/blob/master/src/2908.c)
 8. [다이얼](https://github.com/uuuugi/beakjoon/blob/master/src/5622.c)
 9. [크로아티아 알파벳](https://github.com/uuuugi/beakjoon/blob/master/src/2941.c)
+10. [그룹 단어 체커](https://github.com/uuuugi/beakjoon/blob/master/src/1316.c)
 </details>
