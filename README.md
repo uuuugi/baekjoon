@@ -108,3 +108,9 @@
 
 1. [손익분기점](https://github.com/uuuugi/beakjoon/blob/master/src/1712.c)
 </details>
+
+<details markdown="1">
+<summary>재귀</summary>
+
+1. [팩토리얼](https://github.com/uuuugi/beakjoon/blob/master/src/10872.c)
+</details>
