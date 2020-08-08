@@ -1,6 +1,6 @@
 ## 백준 문제풀이
 
-[백준 ](https://www.acmicpc.net/user/hhjjkk7186)
+[백준 프로필](https://www.acmicpc.net/user/hhjjkk7186)
 
 <details markdown="1">
 <summary>입출력과 사칙연산</summary>
