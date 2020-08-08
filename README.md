@@ -111,7 +111,7 @@
 1. [손익분기점](https://github.com/uuuugi/beakjoon/blob/master/src/1712.c)
 2. [설탕 배달](https://github.com/uuuugi/beakjoon/blob/master/src/2839.c)
 3. [벌집](https://github.com/uuuugi/beakjoon/blob/master/src/2292.c)
-4. [](https://github.com/uuuugi/beakjoon/blob/master/src/1193.c)
+4. [분수찾기](https://github.com/uuuugi/beakjoon/blob/master/src/1193.c)
 </details>
 
 <details markdown="1">
