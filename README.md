@@ -113,6 +113,7 @@
 3. [벌집](https://github.com/uuuugi/beakjoon/blob/master/src/2292.c)
 4. [분수찾기](https://github.com/uuuugi/beakjoon/blob/master/src/1193.c)
 5. [달팽이는 올라가고싶다](https://github.com/uuuugi/beakjoon/blob/master/src/2869.c)
+6. [ACM 호텔](https://github.com/uuuugi/beakjoon/blob/master/src/10250.c)
 </details>
 
 <details markdown="1">
