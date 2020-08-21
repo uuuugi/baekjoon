@@ -124,6 +124,7 @@
 2. [피보나치 수 5](https://github.com/uuuugi/beakjoon/blob/master/src/10870.c)
 </details>
 
+<details markdown="1">
 <summary>num 2000~</summary>
 
 1. [a+b-2](https://github.com/uuuugi/beakjoon/blob/master/src/2558.c)
