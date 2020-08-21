@@ -125,7 +125,13 @@
 </details>
 
 <details markdown="1">
-<summary>num 2000~</summary>
+<summary>Num 1000~</summary>
+
+1. [터렛](https://github.com/uuuugi/beakjoon/blob/master/src/1002.c)
+</details>
+
+<details markdown="1">
+<summary>Num 2000~</summary>
 
 1. [a+b-2](https://github.com/uuuugi/beakjoon/blob/master/src/2558.c)
 </details>
