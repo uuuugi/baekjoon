@@ -128,6 +128,7 @@
 <summary>Num 1000~</summary>
 
 1. [터렛](https://github.com/uuuugi/beakjoon/blob/master/src/1002.c)
+1. [피보나치 ](https://github.com/uuuugi/beakjoon/blob/master/src/1003.c)
 </details>
 
 <details markdown="1">
