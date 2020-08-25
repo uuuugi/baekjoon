@@ -118,6 +118,12 @@
 </details>
 
 <details markdown="1">
+<summary>수학 2</summary>
+
+1. [소수 찾기](https://github.com/uuuugi/beakjoon/blob/master/src/1978.c)
+</details>
+
+<details markdown="1">
 <summary>재귀</summary>
 
 1. [팩토리얼](https://github.com/uuuugi/beakjoon/blob/master/src/10872.c)
