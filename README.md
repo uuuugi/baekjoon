@@ -121,6 +121,7 @@
 <summary>수학 2</summary>
 
 1. [소수 찾기](https://github.com/uuuugi/beakjoon/blob/master/src/1978.c)
+1. [소수](https://github.com/uuuugi/beakjoon/blob/master/src/2581.c)
 </details>
 
 <details markdown="1">
