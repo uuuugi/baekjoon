@@ -126,6 +126,7 @@
 1. [베르트랑 공준](https://github.com/uuuugi/beakjoon/blob/master/src/4948.c)
 1. [골드바흐의 추측](https://github.com/uuuugi/beakjoon/blob/master/src/9020.c)
 1. [직사각형에서 탈출](https://github.com/uuuugi/beakjoon/blob/master/src/1085.c)
+1. [네번째 점](https://github.com/uuuugi/beakjoon/blob/master/src/3009.c)
 </details>
 
 </details>
