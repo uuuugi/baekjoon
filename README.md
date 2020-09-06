@@ -140,6 +140,12 @@
 </details>
 
 <details markdown="1">
+<summary>브루트 포스</summary>
+
+1. [블랙잭](https://github.com/uuuugi/beakjoon/blob/master/src/2798.c)
+</details>
+
+<details markdown="1">
 <summary>Num 1000~</summary>
 
 1. [터렛](https://github.com/uuuugi/beakjoon/blob/master/src/1002.c)
