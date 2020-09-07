@@ -146,6 +146,13 @@
 </details>
 
 <details markdown="1">
+<summary>동적계획법</summary>
+
+1. [피보나치 수2](https://github.com/uuuugi/beakjoon/blob/master/src/2748.c)
+1. [피보나치 함수](https://github.com/uuuugi/beakjoon/blob/master/src/1003.c)
+</details>
+
+<details markdown="1">
 <summary>Num 1000~</summary>
 
 1. [터렛](https://github.com/uuuugi/beakjoon/blob/master/src/1002.c)
