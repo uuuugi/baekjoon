@@ -147,6 +147,12 @@
 </details>
 
 <details markdown="1">
+<summary>정렬</summary>
+
+1. [수 정렬하기](https://github.com/uuuugi/beakjoon/blob/master/src/2750.c)
+</details>
+
+<details markdown="1">
 <summary>동적계획법</summary>
 
 1. [피보나치 수2](https://github.com/uuuugi/beakjoon/blob/master/src/2748.c)
