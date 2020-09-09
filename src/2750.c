@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//버블정렬
 int main(void)
 {
 	int n;
