@@ -128,6 +128,7 @@
 1. [직사각형에서 탈출](https://github.com/uuuugi/beakjoon/blob/master/src/1085.c)
 1. [네번째 점](https://github.com/uuuugi/beakjoon/blob/master/src/3009.c)
 1. [직각삼각형](https://github.com/uuuugi/beakjoon/blob/master/src/4153.c)
+1. [택시 기하학](https://github.com/uuuugi/beakjoon/blob/master/src/3053.c)
 </details>
 
 </details>
