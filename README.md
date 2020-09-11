@@ -172,3 +172,9 @@
 
 1. [a+b-2](https://github.com/uuuugi/beakjoon/blob/master/src/2558.c)
 </details>
+
+<details markdown="1">
+<summary>Num 10000~</summary>
+
+1. [a+b-6](https://github.com/uuuugi/beakjoon/blob/master/src/10953.c)
+</details>
