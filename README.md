@@ -171,6 +171,7 @@
 <summary>Num 2000~</summary>
 
 1. [a+b-2](https://github.com/uuuugi/beakjoon/blob/master/src/2558.c)
+1. [피보나치 수](https://github.com/uuuugi/beakjoon/blob/master/src/2747.c)
 </details>
 
 <details markdown="1">
