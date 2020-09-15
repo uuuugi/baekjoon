@@ -115,6 +115,7 @@
 5. [달팽이는 올라가고싶다](https://github.com/uuuugi/beakjoon/blob/master/src/2869.c)
 6. [ACM 호텔](https://github.com/uuuugi/beakjoon/blob/master/src/10250.c)
 7. [부녀회장이 될테야](https://github.com/uuuugi/beakjoon/blob/master/src/2775.c)
+7. [Fly to the Alpha Centauri](https://github.com/uuuugi/beakjoon/blob/master/src/1011.c)
 </details>
 
 <details markdown="1">
