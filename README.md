@@ -147,6 +147,7 @@
 
 1. [블랙잭](https://github.com/uuuugi/beakjoon/blob/master/src/2798.c)
 1. [분해합](https://github.com/uuuugi/beakjoon/blob/master/src/2231.c)
+1. [덩치](https://github.com/uuuugi/beakjoon/blob/master/src/7568.c)
 </details>
 
 <details markdown="1">
