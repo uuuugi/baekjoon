@@ -168,6 +168,7 @@
 
 1. [터렛](https://github.com/uuuugi/beakjoon/blob/master/src/1002.c)
 1. [피보나치 함수](https://github.com/uuuugi/beakjoon/blob/master/src/1003.c)
+1. [최소공배수](https://github.com/uuuugi/beakjoon/blob/master/src/1934.c)
 </details>
 
 <details markdown="1">
