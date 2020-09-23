@@ -167,6 +167,14 @@
 </details>
 
 <details markdown="1">
+<summary>수학3</summary>
+
+1. [배수와 약수](https://github.com/uuuugi/beakjoon/blob/master/src/5086.c)
+1. [최대공약수와 최소공배수](https://github.com/uuuugi/beakjoon/blob/master/src/2609.c)
+</details>
+
+
+<details markdown="1">
 <summary>Num 1000~</summary>
 
 1. [터렛](https://github.com/uuuugi/beakjoon/blob/master/src/1002.c)
