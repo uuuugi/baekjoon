@@ -157,6 +157,8 @@
 1. [수 정렬하기](https://github.com/uuuugi/beakjoon/blob/master/src/2750.c)
 1. [수 정렬하기2](https://github.com/uuuugi/beakjoon/blob/master/src/2751.c)
 1. [수 정렬하기3](https://github.com/uuuugi/beakjoon/blob/master/src/10989.c)
+1. [소트인사이드](https://github.com/uuuugi/beakjoon/blob/master/src/1427.c)
+
 </details>
 
 <details markdown="1">
