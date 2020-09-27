@@ -174,6 +174,7 @@
 
 1. [배수와 약수](https://github.com/uuuugi/beakjoon/blob/master/src/5086.c)
 1. [최대공약수와 최소공배수](https://github.com/uuuugi/beakjoon/blob/master/src/2609.c)
+1. [](https://github.com/uuuugi/beakjoon/blob/master/src/1037.c.c)
 </details>
 
 
