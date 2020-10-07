@@ -160,6 +160,7 @@
 1. [소트인사이드](https://github.com/uuuugi/beakjoon/blob/master/src/1427.c)
 1. [좌표 정렬하기](https://github.com/uuuugi/beakjoon/blob/master/src/11650.c)
 1. [좌표 정렬하기2](https://github.com/uuuugi/beakjoon/blob/master/src/11651.c)
+1. [단어 정렬](https://github.com/uuuugi/beakjoon/blob/master/src/1181.c)
 
 </details>
 
