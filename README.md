@@ -10,6 +10,7 @@
 3. [고양이](https://github.com/uuuugi/beakjoon/blob/master/src/10171.c)  
 4. [개](https://github.com/uuuugi/beakjoon/blob/master/src/10172.c)
 5. [A+B](https://github.com/uuuugi/beakjoon/blob/master/src/1000.c)
+5. [A+B](https://github.com/uuuugi/beakjoon/blob/master/src/1000.py)
 6. [A-B](https://github.com/uuuugi/beakjoon/blob/master/src/1001.c)
 7. [AxB](https://github.com/uuuugi/beakjoon/blob/master/src/10998.c)
 8. [A/B](https://github.com/uuuugi/beakjoon/blob/master/src/1008.c)
