@@ -14,6 +14,7 @@
 6. [A-B(C)](https://github.com/uuuugi/beakjoon/blob/master/src/1001.c)
 6. [A-B(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/1001.py)
 7. [AxB](https://github.com/uuuugi/beakjoon/blob/master/src/10998.c)
+7. [AxB](https://github.com/uuuugi/beakjoon/blob/master/src/10998.py)
 8. [A/B](https://github.com/uuuugi/beakjoon/blob/master/src/1008.c)
 9. [사칙연산](https://github.com/uuuugi/beakjoon/blob/master/src/10869.c)
 10. [나머지](https://github.com/uuuugi/beakjoon/blob/master/src/10430.c)
