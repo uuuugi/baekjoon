@@ -29,7 +29,8 @@
 
 1. [두 수 비교하기(C)](https://github.com/uuuugi/beakjoon/blob/master/src/1330.c)
 1. [두 수 비교하기(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/1330.py)
-2. [시험성적](https://github.com/uuuugi/beakjoon/blob/master/src/9498.c)
+2. [시험성적(C)](https://github.com/uuuugi/beakjoon/blob/master/src/9498.c)
+2. [시험성적(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/9498.py)
 3. [윤년](https://github.com/uuuugi/beakjoon/blob/master/src/2753.c)
 4. [사분면 고르기](https://github.com/uuuugi/beakjoon/blob/master/src/14681.c)
 5. [알람 시계](https://github.com/uuuugi/beakjoon/blob/master/src/2884.c)
