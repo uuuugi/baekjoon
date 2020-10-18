@@ -33,7 +33,8 @@
 2. [시험성적(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/9498.py)
 3. [윤년(C)](https://github.com/uuuugi/beakjoon/blob/master/src/2753.c)
 3. [윤년(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/2753.py)
-4. [사분면 고르기](https://github.com/uuuugi/beakjoon/blob/master/src/14681.c)
+4. [사분면 고르기(C)](https://github.com/uuuugi/beakjoon/blob/master/src/14681.c)
+4. [사분면 고르기(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/14681.py)
 5. [알람 시계](https://github.com/uuuugi/beakjoon/blob/master/src/2884.c)
 
 </details>
