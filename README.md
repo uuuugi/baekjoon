@@ -35,7 +35,8 @@
 3. [윤년(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/2753.py)
 4. [사분면 고르기(C)](https://github.com/uuuugi/beakjoon/blob/master/src/14681.c)
 4. [사분면 고르기(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/14681.py)
-5. [알람 시계](https://github.com/uuuugi/beakjoon/blob/master/src/2884.c)
+5. [알람 시계(C)](https://github.com/uuuugi/beakjoon/blob/master/src/2884.c)
+5. [알람 시계(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/2884.py)
 
 </details>
 
