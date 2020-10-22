@@ -45,7 +45,8 @@
 
 1. [구구단(C)](https://github.com/uuuugi/beakjoon/blob/master/src/2739.c)
 1. [구구단(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/2739.py)
-2. [A+B -3](https://github.com/uuuugi/beakjoon/blob/master/src/10950.c)
+2. [A+B -3(C)](https://github.com/uuuugi/beakjoon/blob/master/src/10950.c)
+2. [A+B -3(PY)](https://github.com/uuuugi/beakjoon/blob/master/src/10950.py)
 3. [합](https://github.com/uuuugi/beakjoon/blob/master/src/8393.c)
 4. [빠른 A+B](https://github.com/uuuugi/beakjoon/blob/master/src/15552.c)
 5. [N 찍기](https://github.com/uuuugi/beakjoon/blob/master/src/2741.c)
